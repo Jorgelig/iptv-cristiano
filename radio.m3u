@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASD Radio Español",Radio Bless
+http://72.29.80.105:8109/;stream/1
+#EXTINF:-1 group-title="ASD Radio Español",Radio Voces del Alba
+http://streaming.hostingadventista.com:8130
+#EXTINF:-1 group-title="ASD Radio Español",Nuevo Tiempo
+rtsp://stream.novotempo.com:1935/radio/radionuevotiempo.stream
