@@ -16,11 +16,14 @@ Repositorio colaborativo de canales cristianos para IPTV.
 
 
 ## Apps para android
-*LAZY IPTV: https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv&hl=es_419
-*IPTV: https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_419
+*LAZY IPTV: 
+    `https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv&hl=es_419`
+*IPTV: 
+    `https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_419`
 
 ## Reproductores
-*VideoLAN(VLC): http://www.videolan.org/vlc/
+*VideoLAN(VLC): 
+    `http://www.videolan.org/vlc/`
 
 ## Apps compatibles con chromecast
 
