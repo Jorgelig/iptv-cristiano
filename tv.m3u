@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 group-title="ASD Español",EsperanzaTv [SD]
+http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_1192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ASD Español",EsperanzaTv [HD]
+http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
+#EXTINF:-1 group-title="ASD Español",3ABN Latino [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ASD Español",Nuevo Tiempo [SD]
+rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
+#EXTINF:-1 group-title="ASD Español",llbn latino [SD]
+rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847
+#EXTINF:-1 group-title="ASD Español",Red Advenir [SD]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:-1 group-title="ASD Español",Alfa tv [SD]
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+
+#EXTINF:-1 group-title="ASD Ingles",3ABN [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv1_1@303632/master.m3u8
+#EXTINF:-1 group-title="ASD Ingles",3ABN International [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv8_1@310133/master.m3u8
+#EXTINF:-1 group-title="ASD Ingles",3ABN Proclaim [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv3_1@304498/master.m3u8
+#EXTINF:-1 group-title="ASD Ingles",3ABN Kids
+http://moiptvus-lh.akamaihd.net/i/moiptv5_1@304500/master.m3u8
+
+#EXTINF:-1 group-title="ASD Ingles",HopeChannel [HD]
+http://bcliveuniv-lh.akamaihd.net/i/HopeChannel_1@182961/master.m3u8
+#EXTINF:-1 group-title="ASD Ingles",Hope Church Channel [HD]
+http://bcliveuniv-lh.akamaihd.net/i/HopeChurch_1@193089/master.m3u8
+#EXTINF:-1 group-title="ASD Ingles",Smart Lifestile tv
+rtmp://cp45648.live.edgefcs.net/live/T01587-6@72807
+
+#EXTINF:-1 group-title="Musica",Plantio del señor
+http://173.243.114.139:1935/8606/8606/playlist.m3u8
